@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TipCalculatorPart1</string>
+
+    <string-array name="guest_num_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="thank_you">Thank you for dining with us!</string>
+    <string name="enter_subtotal_text">Enter your subtotal: $</string>
+    <string name="select_default_tip_text">Select default tip?</string>
+    <string name="subtotal_fragment_done_button_text">Done</string>
+    <string name="subtotal_plus_tip_text">Subtotal Plus Tip: </string>
+    <string name="each_person_owes_text">Each Person Owes: </string>
+    <string name="round_up_text">Round Up</string>
+
+
+
+
+
+
+
+
+</resources>
